@@ -1,0 +1,6 @@
+fdb==2.0.2
+fpdf==1.7.2
+matplotlib==3.5.2
+numpy==1.23.1
+pandas==1.4.3
+python-dotenv==0.20.0
