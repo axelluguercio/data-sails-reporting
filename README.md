@@ -1,6 +1,6 @@
 ## Automate sail report with python
 
-This is a project for show how we can automate a sail report using python and sql langueages.
+This is a project to show how we can automate a sails report using python and sql.
 
 ## Setup
 
@@ -20,13 +20,13 @@ pip3 install -r requirements.txt
 
 The .env will store all secrets such as the crendentials and ip to connect to the db server, as the start and end date which you want to extract the report's information.
 
-Once you filled the .env with all required secrets you can setup the env.
-
 Example
 
 ```
 DB="YOUR ip-FQDM and database location"
 ```
+
+Once you filled the .env with all required secrets you can setup the env.
 
 ```
 python3 -m venv env
